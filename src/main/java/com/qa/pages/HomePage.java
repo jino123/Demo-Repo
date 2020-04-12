@@ -7,4 +7,9 @@ public class HomePage {
 		System.out.println("Home Page GITHUB");
 	}
 
+	
+	public void searchKey()
+	{
+	System.out.println("System search key");	
+	}
 }
